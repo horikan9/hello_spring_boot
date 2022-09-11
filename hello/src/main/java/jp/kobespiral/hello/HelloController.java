@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 @Controller
 public class HelloController {
-    // あいさつのリスト
+    // あいさつのリストテスト
     private ArrayList<String> list = new ArrayList<>();
 
     /**
